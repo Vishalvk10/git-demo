@@ -1,2 +1,6 @@
 echo " this file is created in gitclone folder"
+<<<<<<< HEAD
 echo " adding first line . Still in gitclone folder"
+=======
+echo " adding a new line from tempgitclone folder"
+>>>>>>> 2257c8ada3a0557cd0235c399e6ab8931478bbf2
