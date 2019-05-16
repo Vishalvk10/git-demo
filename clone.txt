@@ -1,1 +1,1 @@
-echo " this file contains data related to git clone"
+echo " this file is created in gitclone folder"
