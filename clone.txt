@@ -1,1 +1,2 @@
 echo " this file is created in gitclone folder"
+echo " adding first line . Still in gitclone folder"
