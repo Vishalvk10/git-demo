@@ -1,1 +1,0 @@
-echo " just a file to check if stash command is working"
