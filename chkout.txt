@@ -1,1 +1,2 @@
 echo " file to test checkout command "
+echo " it is to check a patch "
