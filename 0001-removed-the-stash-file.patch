@@ -1,0 +1,20 @@
+From f38b451a94018b2b8936e18b8369ef4ac5cc437d Mon Sep 17 00:00:00 2001
+From: VishalKumar <vkvishal060991@gmail.com>
+Date: Fri, 17 May 2019 23:35:09 +0530
+Subject: [PATCH]  removed the stash file
+
+---
+ stashfile.txt | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 stashfile.txt
+
+diff --git a/stashfile.txt b/stashfile.txt
+deleted file mode 100644
+index 9a36e19..0000000
+--- a/stashfile.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-echo " just a file to check if stash command is working"
+-- 
+2.17.1.windows.2
+
